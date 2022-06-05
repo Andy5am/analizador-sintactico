@@ -1,0 +1,54 @@
+[
+    {
+        "type": "+",
+        "value": "+"
+    },
+    {
+        "type": "numeroToken",
+        "value": "7"
+    },
+    {
+        "type": "+",
+        "value": "+"
+    },
+    {
+        "type": "numeroToken",
+        "value": "4"
+    },
+    {
+        "type": "por",
+        "value": "*"
+    },
+    {
+        "type": "numeroToken",
+        "value": "5"
+    },
+    {
+        "type": "f",
+        "value": ";"
+    },
+    {
+        "type": "numeroToken",
+        "value": "8"
+    },
+    {
+        "type": "por",
+        "value": "*"
+    },
+    {
+        "type": "numeroToken",
+        "value": "3"
+    },
+    {
+        "type": "f",
+        "value": ";"
+    },
+    {
+        "type": "numeroToken",
+        "value": "15"
+    },
+    {
+        "type": "f",
+        "value": ";"
+    }
+]
